@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: admin, dashboard, ui, admin menu, icons, grayscale, greyscale, black and white, b&w, monochrome
 Requires at least: 3.0
 Tested up to: 3.4
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Makes plugin admin icons follow WordPress guidelines: Monochrome by default, color when active or moused-over.
 
@@ -27,6 +27,9 @@ This plugin makes all admin icons behave the same, whether correct icons were pr
 1. **Before** Plugin icons are color, default icons are monochrome. **After** Plugin icons match default icon behavior: color only when active or hovered over.
 
 == Changelog ==
+
+= 1.1.1 = 
+Remove debug alert
 
 = 1.1 =
 * Initial public release.
