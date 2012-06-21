@@ -7,7 +7,7 @@ Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.1.1
 
-Makes plugin admin icons follow WordPress guidelines: Monochrome by default, color when active or moused-over.
+Make third-party admin icons monochrome by default, color when active or moused-over.
 
 == Description ==
 
