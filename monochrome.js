@@ -27,7 +27,6 @@ jQuery(document).ready(function($){
 			) {
 				$imgs.hide().each( process_with_canvas );
 				canvas_hover_states();
-				alert('canvas');
 			}
 
 		}
