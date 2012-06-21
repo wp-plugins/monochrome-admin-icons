@@ -7,15 +7,15 @@ Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.1
 
-Description: Make plugin admin icons follow WordPress guidelines: Monochrome by default, color when active.
+Makes plugin admin icons follow WordPress guidelines: Monochrome by default, color when active or moused-over.
 
 == Description ==
 
-Many plugins only provide a color icon for the WordPress admin menu. This makes the user interface inconsistent and sometimes confusing, because built-in WordPress menu items are monochrome by default, and use color to show when a menu item is active.
+Many plugins only provide a color icon for the WordPress admin menu. This makes the user interface inconsistent and sometimes confusing because built-in menu icons are monochrome by default, and only use color to show that menu is active or moused-over.
 
 The [WordPress guidelines for admin icons](http://dotorgstyleguide.wordpress.com/outline/icons/) were pointed out to us by [Helen Hou Sandi's](http://helenhousandi.com/) great [WordPress UI presentation](http://slides.helenhousandi.com/wcphx2012.html#9) at WordCamp Phoenix 2012.
 
-This plugin makes all admin icons behave the same, whether correct icons were provided or not. It supports all major browsers, including Internet Explorer 7+, Firefox 3.5+, Safari, and Chrome.
+This plugin makes all admin icons behave the same, whether correct icons were provided or not. It supports all major browsers, including: Internet Explorer 7+, Firefox 3.5+, Safari, and Chrome.
 
 == Installation ==
 
