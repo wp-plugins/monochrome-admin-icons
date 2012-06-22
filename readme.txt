@@ -2,20 +2,27 @@
 Contributors: brainstormmedia, pdclark
 Author URI: http://brainstormmedia.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FD4GKBGQFUZC8
-Tags: admin, dashboard, ui, admin menu, icons, grayscale, greyscale, black and white, b&w, monochrome
-Requires at least: 3.0
+Tags: admin, dashboard, ui, admin menu, icons, grayscale, greyscale, black and white, b&w, monochrome, color, theme
+License: GPLv2
+Licence URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires at least: 2.8
 Tested up to: 3.4
-Stable tag: 1.1.1
+Stable tag: trunk
 
-Make third-party admin icons monochrome by default, color when active or moused-over.
+Make third-party admin icons use color only when active or moused-over, like default WordPress icons.
 
 == Description ==
 
-Many plugins only provide a color icon for the WordPress admin menu. This makes the user interface inconsistent and sometimes confusing because built-in menu icons are monochrome by default, and only use color to show that menu is active or moused-over.
+Many plugins only provide a color icon for the WordPress admin menu. This makes the user interface inconsistent and sometimes confusing because built-in menu icons only use color when a menu is active or moused-over.
 
-The [WordPress guidelines for admin icons](http://dotorgstyleguide.wordpress.com/outline/icons/) were pointed out to us by [Helen Hou Sandi's](http://helenhousandi.com/) great [WordPress UI presentation](http://slides.helenhousandi.com/wcphx2012.html#9) at WordCamp Phoenix 2012.
+This plugin makes all admin icons behave the same, whether correct icons are provided or not. It supports all major browsers, including:
+	
+* Internet Explorer 7+
+* Firefox 3.5+
+* Safari 5+
+* Chrome 17+
 
-This plugin makes all admin icons behave the same, whether correct icons were provided or not. It supports all major browsers, including: Internet Explorer 7+, Firefox 3.5+, Safari, and Chrome.
+The [WordPress guidelines for admin icons](http://dotorgstyleguide.wordpress.com/outline/icons/) were pointed out to by [Helen Hou Sandi's](http://helenhousandi.com/) great [WordPress UI presentation](http://slides.helenhousandi.com/wcphx2012.html#9) at WordCamp Phoenix 2012.
 
 == Installation ==
 
@@ -28,13 +35,16 @@ This plugin makes all admin icons behave the same, whether correct icons were pr
 
 == Changelog ==
 
+= 1.1.2 =
+* Increase opacity of inactive items.
+
 = 1.1.1 = 
-Remove debug alert
+* Remove debug alert
 
 = 1.1 =
 * Initial public release.
 
-== License ==
+== Upgrade Notice ==
 
-Copyright 2012 Brainstorm Media - Released under the  GNU General Public License
- - [License details](http://www.gnu.org/licenses/gpl.html)
+= 1.1.2 =
+Increases opacity of inactive items. Makes icons less "faded" compared to defaults.
