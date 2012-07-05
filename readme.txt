@@ -35,6 +35,9 @@ The [WordPress guidelines for admin icons](http://dotorgstyleguide.wordpress.com
 
 == Changelog ==
 
+= 1.1.3 =
+* Fix active menu selector in Safari.
+
 = 1.1.2 =
 * Increase opacity of inactive items.
 
@@ -45,6 +48,9 @@ The [WordPress guidelines for admin icons](http://dotorgstyleguide.wordpress.com
 * Initial public release.
 
 == Upgrade Notice ==
+
+= 1.1.3 =
+Fixes active menu selector in Safari.
 
 = 1.1.2 =
 Increases opacity of inactive items. Makes icons less "faded" compared to defaults.

@@ -10,10 +10,12 @@ jQuery(document).ready(function($){
 				plugin = this,
 				$menu = $(menu),
 				menu = menu,
-				$submenus = $menu.find('> li:not(.wp-has-current-submenu)'),
-				$imgs = $submenus.find('img'); // This selector doesn't get default WordPress icons. They're background sprites, not img tags.
+				$submenus, $imgs;
 
-			plugin.settings = {}
+		$submenus = $menu.find('> li:not(.wp-has-current-submenu)');
+		$imgs = $submenus.find('img'); // This selector doesn't get default WordPress icons. They're background sprites, not img tags.
+		
+		plugin.settings = {};
 
 		plugin.init = function() {
 			plugin.settings = $.extend({}, defaults, options);
