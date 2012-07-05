@@ -11,7 +11,7 @@ add_action('admin_init', create_function('', 'new Storm_Monochrome_Admin_Icons()
 
 class Storm_Monochrome_Admin_Icons {
 
-	var $version = '1.1.2';
+	var $version = '1.1.3';
 
 	/**
 	 * CSS/SVG filters supported by IE7+, Firefox 3.5+, Chrome 18+, and Safari 6+
