@@ -6,7 +6,7 @@ Tags: admin, dashboard, ui, admin menu, icons, grayscale, greyscale, black and w
 License: GPLv2
 Licence URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8
-Tested up to: 3.4
+Tested up to: 3.6
 Stable tag: 1.1.3
 
 Make third-party admin icons use color only when active or moused-over, like default WordPress icons.
