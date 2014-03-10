@@ -1,10 +1,7 @@
 === Monochrome Admin Icons ===
-Contributors: brainstormmedia, pdclark
-Author URI: http://brainstormmedia.com
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FD4GKBGQFUZC8
+Contributors: 10up, pdclark
+Author URI: http://pdclark.com
 Tags: admin, dashboard, ui, admin menu, icons, grayscale, greyscale, black and white, b&w, monochrome, color, theme
-License: GPLv2
-Licence URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 2.8
 Tested up to: 3.6
 Stable tag: 1.1.3
