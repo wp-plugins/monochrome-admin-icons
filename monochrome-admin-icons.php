@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Monochrome Admin Icons
-Plugin URI: http://github.com/10up/monochrome-admin-icons
+Plugin URI: http://github.com/pdclark/monochrome-admin-icons
 Description: Make plugin admin icons follow <a href="http://dotorgstyleguide.wordpress.com/outline/icons/">WordPress guidelines</a>: Monochrome by default, color when active.
-Author: Paul Clark, 10up
+Author: Paul Clark
 Author URI: http://pdclark.com
 Version: 1.1.3
 License: GPLv2 or later

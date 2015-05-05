@@ -1,5 +1,5 @@
 === Monochrome Admin Icons ===
-Contributors: 10up, pdclark
+Contributors: pdclark
 Author URI: http://pdclark.com
 Tags: admin, dashboard, ui, admin menu, icons, grayscale, greyscale, black and white, b&w, monochrome, color, theme
 Requires at least: 2.8
